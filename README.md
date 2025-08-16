@@ -33,3 +33,4 @@ Term
            └─ ...
 ```
 
+This project explores whether a type-free, arrows-only foundation can be a seed for a minimal logic/programming language.
