@@ -1,5 +1,5 @@
 
-# Term Theory (MVP)
+# Term Theory 🖇 (MVP) 
 Exploring a type-free, arrows-only foundation (Term Theory MVP),
 
 with a minimal (possibly dependent) structure:
@@ -12,7 +12,7 @@ struct Term {
 ```
 
 
-## **Ideas for extensions:**
+## 🌿**Ideas for extensions:**
 
 - id(Term*) — identity arrow
 
