@@ -12,7 +12,7 @@ struct Term {
 ```
 
 
-## 🌿**Ideas for extensions:**
+## **Ideas for extensions:** 🌱 
 
 - id(Term*) — identity arrow
 
