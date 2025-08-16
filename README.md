@@ -14,13 +14,13 @@ struct Term {
 
 ## **Ideas for extensions:**
 
-- id(Term*) — identity arrow
+- `id(Term*)` — identity arrow
 
-- compose(Term*, Term*) — composition
+- `compose(Term*, Term*)` — composition
 
-- recurse(Term*) — self-dependent term
+- `recurse(Term*)` — self-dependent term
 
-- Visualize as infinite unfolding tree
+- Visualize as infinite unfolding tree:
 
           ```
           Term
