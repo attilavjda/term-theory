@@ -32,7 +32,7 @@ Term
            └─ ...
 ```
 
-- Term Theory can be extended along the lines of classical type theories, giving rise to the following multiverse of arrows-only analogues:
+- Maybe Term Theory can be extended along the lines of classical type theories, giving rise to the following multiverse of arrows-only analogues:
 
      | Type Theory                  | Term-Only Cousin             |
      | ---------------------------- | ---------------------------- |
